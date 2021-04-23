@@ -1,5 +1,5 @@
 <h1 align="center">SCA CS Project files</h1>
-<h3>This repository contains terraform files used in provisioning Infrastructure on GCP for the ![SCA CS project](https://github.com/Goodiec/SCA-CS-project)</h3>
+<h3>This repository contains terraform files used in provisioning Infrastructure on GCP for the ! [SCA CS project](https://github.com/Goodiec/SCA-CS-project)</h3>
 
 <!-- TABLE OF CONTENTS -->
 
